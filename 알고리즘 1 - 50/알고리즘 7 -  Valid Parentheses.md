@@ -62,4 +62,4 @@ Runtime: 68 ms, faster than 96.05% of JavaScript online submissions for Valid Pa
 Memory Usage: 38.7 MB, less than 76.21% of JavaScript online submissions for Valid Parentheses.
 
 
-생각해보기 좋은 문제다. 처음엔 if문을 남발해서 풀었었는데 map으로 풀 수 있을 것 같아서 map으로 풀어봤다.
+
