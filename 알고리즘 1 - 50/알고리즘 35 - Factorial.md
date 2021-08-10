@@ -17,5 +17,5 @@ function factorial(n)
 ```
 
 
-thorw === 사용자 정의 예외 던지는 것
+throw === 사용자 정의 예외 던지는 것
 https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Statements/throw
